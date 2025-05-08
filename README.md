@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ1cW5wYnI3bWdqeDk5ZWk4c2N6Zmp6YzU1ZXhmaTM4MmFnNXh1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"  />
-</div>
 
 ###
 
@@ -43,7 +40,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenshiin1123&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="180" alt="languages graph"  />
+  
   <img src="https://github-profile-trophy.vercel.app?username=kenshiin1123&theme=onestar&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshiin1123&radius=0&theme=elegant&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
 </div>
 
