@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
