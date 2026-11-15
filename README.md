@@ -2,7 +2,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenshiin1123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="180" alt="languages graph"  />
 
 ###
 
@@ -48,7 +47,6 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app?username=kenshiin1123&theme=onestar&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
 
 ###
 
